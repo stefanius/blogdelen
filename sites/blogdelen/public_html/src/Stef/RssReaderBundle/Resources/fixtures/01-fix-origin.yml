@@ -1,0 +1,9 @@
+Stef\RssReaderBundle\Entity\Origin:
+  nujij:
+    id: 1
+    name: NuJij
+    description: 'Het grootste open platform voor het delen van nieuwsberichten. Naast het delen van nieuwsberichten is het mogelijk om een discussie op te starten en te sparren met mede NuJij-leden!'
+  stefanius:
+    id: 2
+    name: Stefanius.nl
+    description: 'Software developper, website bouwer en blogger. Onder de vlag van Stefanius worden regelmatig nieuwe concepten bedacht'

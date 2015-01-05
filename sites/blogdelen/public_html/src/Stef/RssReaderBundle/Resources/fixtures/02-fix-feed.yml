@@ -1,0 +1,7 @@
+Stef\RssReaderBundle\Entity\Feed:
+  nujij-feed-1:
+    id: 1
+    link: http://www.nujij.nl/Rss/Nieuw/?topic=Wetenschap
+  stefanius:
+    id: 2
+    link: http://stefanius.nl/rss.xml
